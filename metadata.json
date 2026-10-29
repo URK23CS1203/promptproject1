@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Doctor",
+  "description": "Diagnostic prompt analyzer, optimizer, and blind side-by-side AI response evaluation workbench powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
